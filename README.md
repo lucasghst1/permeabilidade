@@ -1,6 +1,7 @@
-# Tecnosolo - Permeabilidade do Solo
+# Tecnosolo Sondagem - Permeabilidade do Solo
+#Desenvolvido por: Lucas Zozo
 
-Bem-vindo ao Tecnosolo, uma ferramenta interativa para calcular a permeabilidade do solo. Este programa utiliza o método de percolação para determinar a permeabilidade com base em dados fornecidos pelo usuário. A aplicação foi desenvolvida utilizando a biblioteca Tkinter do Python, proporcionando uma interface gráfica amigável e intuitiva.
+Tecnosolo Sondagem, uma ferramenta interativa para calcular a permeabilidade do solo. Este programa utiliza o método de percolação para determinar a permeabilidade com base em dados fornecidos pelo usuário. A aplicação foi desenvolvida utilizando a biblioteca Tkinter do Python, proporcionando uma interface gráfica amigável e intuitiva.
 
 ## Funcionalidades
 
