@@ -20,7 +20,7 @@ def calcular_permeabilidade():
     try:
         H = 300  # Altura do solo (cm)
         r = 0.09113321515115849  # Raio do cilindro (cm)
-        T = 1800  # Tempo fixo (s)
+        T = 1785  # Tempo fixo (s)
 
         # Obtém valores do usuário
         H1 = float(entrada_H1.get())
